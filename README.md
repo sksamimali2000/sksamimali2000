@@ -1,6 +1,6 @@
 <!-- Typing Animation Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+SK+Samim+Ali!;Data+Analyst+%7C+Data+Scientist; Machine+Learning+%7C+NLP+%7C+Deep+Learning;Turning+Data+Into+Insights">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+SK+Samim+Ali!;Data+Analyst+%7C+Data+Scientist;Machine+Learning+%7C+NLP+%7C+Deep+Learning;Turning+Data+Into+Insights">
 </h1>
 
 <p align="center">
