@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 About Me
-🎓 M.Sc. in Computational Science & Application (**Data Science Specialization**) @ Banaras Hindu University  
+🎓 M.Sc. in Computational Science & Application (2025) (**Data Science Specialization**) @ Banaras Hindu University  
 💻 Skilled in **Data Analysis, Machine Learning, NLP, Deep Learning, Data Visualization**  
 📊 Passionate about **end-to-end data projects** from ETL to insight delivery  
 📫 Reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/sk-samim-ali-25a9b2293) [![Gmail](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:roy871858@gmail.com)  
