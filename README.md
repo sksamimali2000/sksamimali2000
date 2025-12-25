@@ -9,7 +9,8 @@
 
 ---
 
-## 👨‍💻 About Me  
+## 👨‍💻 About Me 
+   Currently Working as a Data Analytics and MIS Specialist at MaRS Planning and Engineering Service Private Limited
 🎓 Pursuing **M.Sc. in Computational Science & Application (Data Science Specialization)** @ *Banaras Hindu University (2025)*  
 💼 2+ years as **Data Analyst @ Bengal Enterprise** *(Excel, Dashboards, Reports, Macros, PPT)*  
 💡 Skilled in **Data Analysis, Visualization, SQL, ML, NLP, DL**  
